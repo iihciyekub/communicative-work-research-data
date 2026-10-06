@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this independent research-data release using the fixed version."
+type: dataset
+title: "De-identified research materials for Who Does the Communicative Work"
+authors:
+  - family-names: Li
+    given-names: Yishu
+    orcid: "https://orcid.org/0000-0002-6535-6994"
+  - family-names: Gao
+    given-names: Yan
+  - family-names: Li
+    given-names: Yongjian
+    orcid: "https://orcid.org/0000-0001-5220-8987"
+version: "1.0.0"
+date-released: "2026-10-06"
+license: CC-BY-4.0
+repository-code: "https://github.com/iihciyekub/communicative-work-research-data"
+url: "https://github.com/iihciyekub/communicative-work-research-data/releases/tag/v1.0.0"
+keywords:
+  - qualitative interviews
+  - Chinese language learning
+  - communicative work
+  - action attribution
+  - de-identified research data

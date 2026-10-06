@@ -1,0 +1,15 @@
+# Methods and access limits
+
+The corpus contains 59 completed, consented semi-structured interviews from a one-year Chinese-language programme. The programme cohort had 99 learners from 11 countries. The interview plan targeted 60; the current analytic corpus is 59. Fifty-five interviews were face to face and four online; recorded durations were approximately 7 to 128 minutes, with a median of about 30 minutes. These are aggregate study descriptors, not participant-level identifiers.
+
+The current analysis used within-case and across-case comparisons of reported communication. Operational rules and evidence boundaries are published alongside the selected passages. Source forms distinguish specific recalled episodes, recurring-practice descriptions, and evaluations or hypothetical statements. These forms support different inferences. The researcher interpretations in the tables are separate from the source text in the excerpt column.
+
+Project documentation dates multilingual working-record preparation to January 2026 and describes assistance by people familiar with the relevant languages, including checks of machine- or AI-assisted drafts. A complete excerpt-level audit against original-language recordings is not documented. Record-preparation dates and programme duration do not identify an individual's interview date or time in the programme.
+
+Each public window starts at the listed English working-record turn marker and ends before the closing marker. The excerpt file selects turns inside those bounds and retains their text markers. These are text locations, not independently verified audio segments. For Case #14 only selected SPEAKER_2 material is reproduced; duplicated or garbled SPEAKER_0 renderings are omitted. The P12, P16 and P17 selections retain SPEAKER_0; adjacent other-speaker comments are excluded. Speaker tags are opaque working-record labels, not certified identities.
+
+No new original-language listening audit, independent coder, agreement statistic, or translation validation is claimed by this release. Selected text is matched to retained English records. Gaps between reproduced turns are explicit in their timestamps; they must not be treated as adjacency. Privacy replacements appear in brackets. Apart from these marked replacements, selected source turns have not been rewritten or polished.
+
+The corpus inventory is not a recruitment or exclusion log. Identifier gaps are inherited archive labels. No new reasons for unlisted archive records are inferred. All 59 listed cases are included in the current analytic corpus, and complete source records remain restricted.
+
+The manuscript reports ethics approval and informed consent. Author-facing submission materials carry the identifying approval details. This public release does not include consent documents or grant permission to disclose raw sources. Any editorial request for restricted sources must be assessed separately against the study's confidentiality commitments and applicable access conditions.

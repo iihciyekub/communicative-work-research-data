@@ -1,0 +1,29 @@
+profile_dimension,reported_value
+manuscript_title,Who Does the Communicative Work? Learners' Accounts of Supported Chinese-Language Encounters
+study_design,Qualitative interview study using abductive within-case and across-case analysis of reported communicative encounters and recurrent practices; evaluations and hypothetical statements are distinguished.
+programme_context,One-year Chinese-language programme for foreign government officials in China
+programme_cohort,99 learners from 11 countries
+approved_interview_target,60
+recruitment,Voluntary response to an open campus-network notice after ethical approval and project registration
+completed_consented_interviews,59
+analytic_corpus,59
+corpus_inclusion,All 59 completed and consented interviews met the inclusion criteria and formed the analytic corpus
+participant_age,A verified sample-wide age range is not available in the retained de-identified case-level records.
+entry_chinese,Beginner-oriented provision in aggregate project records; prior exposure varied and uniform individual baseline scores are unavailable.
+demographic_metadata_boundary,"Gender, education, individual baseline scores, and occupational-sector distributions were not uniformly retained and are not reconstructed"
+participant_roles,Government and public-service roles across multiple agencies
+fieldwork_timing,All interviews were completed during the approved implementation period; a uniform case-linked interview-date series is not retained in the de-identified analytic materials.
+interview_mode,Four interviews online and 55 face to face
+interview_duration,Approximately 7–128 minutes; median approximately 30 minutes
+interviewers,"Experienced Chinese-language educators familiar with the programme, following a semi-structured guide and prompts for elaboration"
+interview_languages,Participants could use preferred home-country languages
+transcription_translation,Project documentation dates multilingual working-record preparation to January 2026 and describes language-familiar assistance and checks of machine- or AI-assisted drafts. Selected text can be checked against English working records; a complete excerpt-level audit against original-language recordings is not documented.
+participant_incentive,RMB 50 or an equivalent commemorative gift
+ethics,The manuscript reports ethics approval and informed consent. Identifying approval details are supplied separately in the author-facing submission materials.
+primary_unit_of_analysis,"Bounded account of a communicative activity: particular encounter or recurrent practice, with evaluations and hypothetical statements retained separately."
+source_sufficiency_rule,"Attribute message choice, wording source, delivery or presentation, and trouble-addressing action only when supported. Keep activity requirement, reported occurrence, outcome, and applicability separate. Shared means contributions to the same function; unestablished is not absence."
+case_identifiers,Retained de-identified archival numerical identifiers; leading zeros should be preserved
+source_access,Recordings and complete transcripts remain restricted. This package supplies de-identified article-level materials and selected English working-record excerpts.
+scope_of_inference,"Reported action, participant interpretation and cross-case contrasts; not prevalence, turn-by-turn reconstruction or causal language-development effects."
+evidence_scope,The full 59-interview corpus is the analytic base; selected case summaries and source-location windows support traceability of central contrasts.
+selected_passage_ledger,06_selected_source_windows.csv contains 19 windows from 10 included cases; 07_selected_evidence_excerpts.csv supplies selected text within those windows. Neither is an episode census.
